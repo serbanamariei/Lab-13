@@ -1,0 +1,1 @@
+Suma numerelor din vector: 15
