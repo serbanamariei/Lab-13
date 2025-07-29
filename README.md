@@ -45,7 +45,7 @@ This folder contains solved problems from Lab 13 of the "Programming Fundamental
 
         2 args: copy file1 to file2
 
-        ≥3 args: concatenate file1, file2, ..., fileN-1 into fileN
+        ≥ 3 args: concatenate file1, file2, ..., fileN-1 into fileN
 
 #### Problem 2.4 – Store and Display Real Numbers
 
@@ -93,17 +93,17 @@ This folder contains solved problems from Lab 13 of the "Programming Fundamental
 
     - Work pay/day
 
-      - Stock + order matrix for n dwarves × m products
+    - Stock + order matrix for n dwarves × m products
 
-      - Product prices
+    - Product prices
 
   - Compute:
 
     - Final stock per dwarf
 
-      - Total payment owed per dwarf
+    - Total payment owed per dwarf
 
-      - Number of days to repay (real and rounded)
+    - Number of days to repay (real and rounded)
 
 - Output report in PITICI.OUT, echo input to screen
 
@@ -116,7 +116,7 @@ This folder contains solved problems from Lab 13 of the "Programming Fundamental
 
     - Total stock and value per store
 
-      - Value increase after price growth (given %)
+    - Value increase after price growth (given %)
 
   - Display inventory report on screen
 
