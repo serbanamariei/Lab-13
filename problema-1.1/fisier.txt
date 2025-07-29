@@ -1,0 +1,2 @@
+Numele programului: ./main
+Nume student: Serban
